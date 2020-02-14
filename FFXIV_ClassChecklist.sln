@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFXIV_ClassChecklist", "FFXIV_ClassChecklist.csproj", "{1DFC2336-86ED-4912-9DC9-99F0659CEE26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DFC2336-86ED-4912-9DC9-99F0659CEE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFC2336-86ED-4912-9DC9-99F0659CEE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFC2336-86ED-4912-9DC9-99F0659CEE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFC2336-86ED-4912-9DC9-99F0659CEE26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC73952-DC3A-4C48-9278-9D1538C0CEA0}
+	EndGlobalSection
+EndGlobal
